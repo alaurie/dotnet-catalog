@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "fetch": {
+      "script-ref": "apps/fetch/fetch.cs",
+      "description": "Concurrent file downloader with safe resume and checksum verification."
+    }
+  }
+}
